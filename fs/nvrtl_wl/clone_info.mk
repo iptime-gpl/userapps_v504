@@ -1,0 +1,1 @@
+clones/v504/clone_info.mk
